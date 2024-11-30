@@ -1,0 +1,11 @@
+button{
+    display: block;
+margin: 50px auto;
+/* width: fit-content; */
+padding: 1%;
+
+}
+
+body{
+    height: 500px;
+}
